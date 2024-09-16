@@ -1,0 +1,7 @@
+C:\Users\Lovro\source\repos\mojPrviZadatak\mojPrviZadatak\bin\Debug\mojPrviZadatak.exe.config
+C:\Users\Lovro\source\repos\mojPrviZadatak\mojPrviZadatak\bin\Debug\mojPrviZadatak.exe
+C:\Users\Lovro\source\repos\mojPrviZadatak\mojPrviZadatak\bin\Debug\mojPrviZadatak.pdb
+C:\Users\Lovro\source\repos\mojPrviZadatak\mojPrviZadatak\obj\Debug\mojPrviZadatak.csproj.AssemblyReference.cache
+C:\Users\Lovro\source\repos\mojPrviZadatak\mojPrviZadatak\obj\Debug\mojPrviZadatak.csproj.CoreCompileInputs.cache
+C:\Users\Lovro\source\repos\mojPrviZadatak\mojPrviZadatak\obj\Debug\mojPrviZadatak.exe
+C:\Users\Lovro\source\repos\mojPrviZadatak\mojPrviZadatak\obj\Debug\mojPrviZadatak.pdb
